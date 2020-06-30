@@ -9,4 +9,19 @@
 
 <출력>
 150
-"""
+"""S
+
+first_num = int(input("첫 번째 수를 입력하세요 : "))
+sec_num = int(input("두 번째 수를 입력하세요 : "))
+operation = input("어떤 연산을 하실 건가요? : ")
+
+
+if operation == "*":
+    print(first_num*sec_num)
+elif operation == "%":
+    print(first_num%sec_num)
+elif operation == "+":
+    print(first_num+sec_num)
+elif operation == "-":
+    print(first_num-sec_num)
+
