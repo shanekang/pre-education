@@ -9,7 +9,6 @@ print(Triangle(10,20))
 100
 
 """
-
 def Triangle(n1, n2):
     answer = (n1 * n2) / 2
     print(int(answer))

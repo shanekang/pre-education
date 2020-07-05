@@ -15,6 +15,7 @@ score : 88
 A
 
 """
+
 score = int(input("score : "))
 
 if 81 <= score <= 100:

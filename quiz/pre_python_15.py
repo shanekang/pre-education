@@ -8,6 +8,7 @@
 <출력>
 남자
 """
+
 identity_number = input("주민등록번호 : ")
 
 if identity_number[7] == "1" or identity_number[7] == "3":

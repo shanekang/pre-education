@@ -27,6 +27,7 @@
 
 
 """
+
 star_num = int(input("숫자를 입력하세요 : "))
 space_num = star_num
 i = 0

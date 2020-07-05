@@ -10,6 +10,7 @@ print(list)
 ['charlie', 'foxtrot']
 
  """
+
 a = ['alpha', 'bravo', 'charlie', 'delta', 'echo', 'foxtrot', 'golf', 'hotel', 'india']
 list = []
 for i in range(0,9):
